@@ -1,5 +1,5 @@
 # Customer Churn Analysis
-
+A data analysis project focused on identifying customer churn patterns using SQL and Power BI.
 ##  About the Project
 In this project, I worked on identifying customers who are likely to churn based on their activity, transactions, and subscription details. The main goal was to understand customer behavior and find patterns that indicate risk.
 
