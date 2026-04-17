@@ -19,7 +19,7 @@ In this project, I worked on identifying customers who are likely to churn based
 ## Dashboard Preview
 
 ### Overview
-![Overview](PASTE_IMAGE_LINK_1)
+https://github.com/hafiza-data/customer-churn-analysis/raw/main/overview.png
 
 ### Churn Risk Analysis
 ![Risk](PASTE_IMAGE_LINK_2)
