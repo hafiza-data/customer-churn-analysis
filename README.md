@@ -19,13 +19,13 @@ In this project, I worked on identifying customers who are likely to churn based
 ## Dashboard Preview
 
 ### Overview
-![Overview]https://github.com/hafiza-data/customer-churn-analysis/raw/main/overview.png
+![Overview](https://github.com/hafiza-data/customer-churn-analysis/raw/main/overview.png)
 
 ### Churn Risk Analysis
-![Risk]https://github.com/hafiza-data/customer-churn-analysis/blob/main/risk_analysis.png
+![Risk](https://github.com/hafiza-data/customer-churn-analysis/blob/main/risk_analysis.png)
 
 ### Customer Behavior
-![Behavior]https://github.com/hafiza-data/customer-churn-analysis/blob/main/behavior.png
+![Behavior](https://github.com/hafiza-data/customer-churn-analysis/blob/main/behavior.png)
 
 ##  Key Observations
 - Customers with more failed payments are more likely to churn
