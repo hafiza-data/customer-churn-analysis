@@ -41,3 +41,6 @@ In this project, I worked on identifying customers who are likely to churn based
 - Writing aggregation queries using GROUP BY
 - Building a complete dashboard from raw data
 - Understanding how business problems are solved using data
+
+##  Data Source
+- Sample dataset created for analyzing customer churn using SQL and Power BI.
